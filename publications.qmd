@@ -3,7 +3,7 @@ title: "Publications"
 editor: visual
 ---
 
-
+<!--
 ::: {.callout-note}
 ## Links
 
@@ -11,11 +11,11 @@ editor: visual
 >- **ORCID**: <https://orcid.org/0000-0002-2011-7535>
 >- **ResearchGate:** <https://www.researchgate.net/profile/Yujun-Lian>
 :::
-
+-->
 &emsp;
 
 ## 期刊论文
-
+<!--
 -   **连玉君**, 李鑫. 完全刑责年龄法律对未成年人犯罪行为的威慑作用研究. **统计研究**, 2025, 已接受. [工作论文版](https://file-lianxh.oss-cn-shenzhen.aliyuncs.com/Refs/LianPub/%E8%BF%9E%E7%8E%89%E5%90%9B-%E6%9D%8E%E9%91%AB-2024-%E7%BB%9F%E8%AE%A1%E7%A0%94%E7%A9%B6-RDD-%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA.pdf)
 -   **连玉君**, 李鑫. 失去的十年:日本应对广场协议的政策效应研究. **中山大学学报** (社会科学版), 2025 (1): 185-196. [-Link-](https://link.cnki.net/doi/10.13471/j.cnki.jsysusse.2025.01.020), [-PDF-](https://bar.cnki.net/bar/download/order?id=Pmp%2F5es3RB81cmauPwpbvsPMJcfwHgIZAnUyOJG6Kdog%2BHL%2FGFrGhKahW4YGMC%2BS9rApGw1Kn1Osj2RxbQfKvjCe6SDJA%2FE4K5lDg6WoZeh7b5mY%2FmsIpB5E%2FKF94iQVwddxEU3rL3oTHoiWc6PitFK57xT%2B8LhM%2BfEqYWvBGm0igmLMld3nSvbU4a5%2BOkNaUlSU0HSLnl9m7MwOtW%2FIk9GlczRq40icS9q1bpEM6d9lgv7q8C%2BP7FPVW3hwYPcqveGzrp%2B41EH7caBaJ8FVkg%3D%3D)
 -   Yan, C., **Lian, Y.**, Xu, X., & Chen, C.-C., Share pledge lending, monetary policy, and shadow banking nexus. 2025, **Pacific-Basin Finance Journal**, Online. [Link](https://doi.org/10.1016/j.pacfin.2025.102772)
@@ -70,9 +70,10 @@ editor: visual
 -   连玉君, 苏治, 丁志国. 现金-现金流敏感性能检验融资约束假说吗? **统计研究**, 2008 (10): 92-99. [-Link-](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2008&filename=TJYJ200810016&v=IdIBnwKGB4SD0iPVpnEzucO82oLDRPxt57XCjB5vLshcPO3ax%25mmd2BzwMmv3KIpthKlB)
 -   连玉君, 苏治. 上市公司现金持有:静态权衡还是动态权衡？**世界经济**, 2008 (10): 84-96. [-Link-](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2008&filename=SJJJ200810010&v=8myfCWmARKYWlIKzZjg4IVqjoOfF5CQezmjy2%25mmd2BJQmkIgUM710iD5nCELC7uU%25mmd2FtOM)
 -   连玉君, 程建. 投资-现金流敏感性：融资约束还是代理成本. **财经研究**, 2007 (2): 37-46. [-Link-](http://www.cnki.com.cn/Article/CJFDTotal-CJYJ200702003.htm)
+-->
 
 ## 科研项目
-
+<!--
 1.  广东省自然科学基金委员会，面上项目，2023A1515012307，科创板IP0 定价效率研究，2023.1.1-2025.12.31，资助额：10 万元. 负责人：连玉君
 2.  广东省自然科学基金委员会，面上项目，2020A1515011291，股权质押的风险传染与防范措施研究，2019.10.1-2022.9.30，资助额：10 万元. 已结项，主持
 3.  国家自然科学基金委员会，面上项目，71672206，中国上市公司财务决策中的同群效应研究，2017.01-2020.12, 资助额：48 万元，结项申请，主持
@@ -82,3 +83,4 @@ editor: visual
 7.  广东省自然科学基金委员会，科技计划项目，2011B040400006，促进广东高新技术业和科技服务业协同发展的科技服务模式研究，2011.09-2012.08，资助额：20 万元，已结项，主持
 8.  教育部人文社会科学研究基金青年项目“转型背景下中国上市公司投资效率研究”，(编号：09YJC790269)，2009.12-2012.12. 负责人: 连玉君. 资助额：5 万. (已结项)
 9.  广东省自然科学基金项目“广东科技型企业研发模式和研发效率研究”，（9451027501002497），2009.10-2011.10. 负责人: 连玉君. 资助额：3 万. (已结项)
+-->
